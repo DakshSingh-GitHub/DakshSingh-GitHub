@@ -1,6 +1,6 @@
 # Hey There 👋
 
-I am Daksh Singh, currently a student. I'm on a drop year for JEE examination and, I'm keen on leaning the new trends. I've worked on a few projects as from my school time. Both as Projects.
+I am Daksh Singh, currently a student. I'm keen on leaning the new trends. I've worked on a few projects as from my school time. Both as Projects.
 
 ## Skills
 
